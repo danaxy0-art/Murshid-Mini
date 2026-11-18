@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+murshid_outputs/
+murshid_live_outputs/
+murshid_submission.zip
+*.safetensors

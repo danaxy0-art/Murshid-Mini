@@ -1,0 +1,7 @@
+{
+  "core_json_source": "Learner-supplied murshid_submission.zip exported after Colab execution; screenshots supplied in this conversation",
+  "core_notebook_source": "Previously locally executed notebook; learner should replace with their downloaded Colab notebook before GitHub upload",
+  "unit_tests_source": "Earlier local automated run",
+  "homework_source": "Earlier local execution; learner Colab homework runs not yet provided",
+  "metadata_note": "The environment field in the uploaded final_report.json is a fixed template string from preparation. It is preserved unchanged and does not identify the learner runtime. This provenance record clarifies its source."
+}

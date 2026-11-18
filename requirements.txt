@@ -1,0 +1,2 @@
+# Core project and Days 2/3: Python standard library only. Nothing to pip install.
+# Days 1/4: use their separate notebook setup; do not install into core runtime.
